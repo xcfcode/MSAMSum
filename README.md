@@ -1,6 +1,6 @@
 
 # MSAMSum: Multi-lingual Dialogue Summarization Dataset
-This repository contains the dataset for our paper [MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/).
+This repository contains the dataset for our ACL 2022 DialDoc Workshop paper [MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/).
 
 * [1. Abstract](#1-abstract)
 * [2. Dataset Construction](#2-dataset-construction)
