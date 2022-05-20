@@ -41,7 +41,7 @@ Illustration of the mix-lingual dialogue construction process.
 
 
 ## 4. MSAMSum
-For MSAMSum please send an application email to `xiachongfeng1996[at].gmail.com` to obtain it. 
+For MSAMSum please send an application email to `xiachongfeng1996[at].gmail.com` (simply including your name, affiliation and research purpose) to obtain it. 
 Note that, we cannot directly release the share link of MSAMSum due to the [CC BY-NC-ND 4.0](./CC-BY-NC-SA-4.0.md) license of original SAMSum dataset.
 
 
