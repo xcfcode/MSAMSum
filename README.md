@@ -2,15 +2,14 @@
 # MSAMSum: Multi-lingual Dialogue Summarization Dataset
 This repository contains the dataset for our paper [MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/).
 
-- [MSAMSum: Multi-lingual Dialogue Summarization Dataset](#msamsum--multi-lingual-dialogue-summarization-dataset)
-  * [1. Abstract](#1-abstract)
-  * [2. Dataset Construction](#2-dataset-construction)
-  * [3. Multi-lingual Settings](#3-multi-lingual-settings)
-    + [3.1 Mix-lingual Setting](#31-mix-lingual-setting)
-  * [4. MSAMSum](#4-msamsum)
-  * [5. Recommendation](#5-recommendation)
-  * [6. Citation](#6-citation)
-  * [7. License](#7-license)
+* [1. Abstract](#1-abstract)
+* [2. Dataset Construction](#2-dataset-construction)
+* [3. Multi-lingual Settings](#3-multi-lingual-settings)
+  + [3.1 Mix-lingual Setting](#31-mix-lingual-setting)
+* [4. MSAMSum](#4-msamsum)
+* [5. Recommendation](#5-recommendation)
+* [6. Citation](#6-citation)
+* [7. License](#7-license)
 
 
 ## 1. Abstract
